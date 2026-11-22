@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-WebSite: [ddaniboy.co](https://ddaniboy.co)
+WebSite: [ddaniboy.co](http://ddaniboy.co)
